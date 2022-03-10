@@ -1,0 +1,15 @@
+{
+  "name": "problems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dive.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
