@@ -2,7 +2,7 @@
   "name": "problems",
   "version": "1.0.0",
   "description": "",
-  "main": "dive.js",
+  "main": "binary.js",
   "scripts": {
     "test": "jest",
     "start": "node ."
